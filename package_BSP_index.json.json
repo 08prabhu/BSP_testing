@@ -22,11 +22,11 @@
           "checksum": "SHA-256:86306a068853ed8e3d5c53aab771c6c338eaaaae10fc5930411984da1bad03d8",
           "size": "6564792",
           "boards": [
-            {"name": "Catena 4410"},
-			{"name": "Catena 4420"},  
-            {"name": "Catena 4450"},
-            {"name": "Catena 4460"},
-			{"name": "Catena 4470"}
+            	{"name": "Catena 4410"},
+	  	{"name": "Catena 4420"},  
+            	{"name": "Catena 4450"},
+            	{"name": "Catena 4460"},
+		{"name": "Catena 4470"}
           ],
           "toolsDependencies": [
             {
