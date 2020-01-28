@@ -9,7 +9,7 @@
         "online": "https://portal.mcci.com"
       },
       "platforms": [
-		{
+	{
           "name": "MCCI Catena SAMD Boards",
           "architecture": "samd",
           "version": "2.1.0",
