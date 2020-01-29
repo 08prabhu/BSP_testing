@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "mcci",
-      "maintainer": "MCCI Corp",
+      "name": "mcci-prabhu",
+      "maintainer": "MCCI Corp-prabhu",
       "websiteURL": "https://github.com/mcci-catena/arduino-boards",
-      "email": "tmm@mcci.com",
+      "email": "prabhus@mcci.com",
       "help": {
-        "online": "https://portal.mcci.com"
+        "online": "https://github.com/08prabhu"
       },
       "platforms": [
         {
@@ -334,17 +334,17 @@
           ]
         },
 	{
-          "name": "MCCI Catena SAMD Boards",
+          "name": "MCCI Catena SAMD Boards-Prabhu",
           "architecture": "samd",
-          "version": "2.1.0",
+          "version": "2.2.0",
           "category": "Contributed",
           "help": {
-            "online": "https://portal.mcci.com"
+            "online": "https://github.com/08prabhu"
           },
-          "url": "https://github.com/mcci-catena/ArduinoCore-samd/archive/v2.1.0.tar.gz",
-          "archiveFileName": "Arduino_Core_SAMD-2.1.0.tar.gz",
-          "checksum": "SHA-256:86306a068853ed8e3d5c53aab771c6c338eaaaae10fc5930411984da1bad03d8",
-          "size": "6564792",
+          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-2.2.0.tar.gz",
+          "checksum": "SHA-256:253a97c824037f66393b8ba8dee64420bb86e2044d6b7bbd45135edc9608ac77",
+          "size": "6354017",
           "boards": [
             {"name": "Catena 4410"},
 	    {"name": "Catena 4420"},  
