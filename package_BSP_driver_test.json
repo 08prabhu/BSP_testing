@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/08prabhu/BSP_testing/",
       "email": "prabhus@mcci.com",
       "help": {
-        "online": "https://github.com/08prabhu/BSP_testing/"
+        "online": "https://portal.mcci.com"
       },
       "platforms": [
 		{
@@ -15,12 +15,12 @@
           "version": "2.2.0",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/08prabhu/BSP_testing/"
+            "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.zip",
-          "archiveFileName": "ArduinoCore-samd-2.2.0.zip",
-          "checksum": "SHA-256:2b931d5b1f0585f556c70146640971e6541e9b21ee0285468a9b83d1a6be5cb2",
-          "size": "4411644",
+          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-2.2.0.tar.gz",
+          "checksum": "SHA-256:050f8a2f9c5d9929dbe7df37146eeafb4fb8fb9e2787416989fbc90517cba36b",
+          "size": "17786368",
           "boards": [
             {"name": "Arduino Zero"},
           ],
