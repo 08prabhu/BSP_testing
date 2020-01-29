@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/08prabhu/BSP_testing/",
       "email": "prabhus@mcci.com",
       "help": {
-        "online": "https://portal.mcci.com"
+        "online": "https://github.com/08prabhu/BSP_testing/"
       },
       "platforms": [
 		{
@@ -15,7 +15,7 @@
           "version": "2.2.0",
           "category": "Contributed",
           "help": {
-            "online": "https://portal.mcci.com"
+            "online": "https://github.com/08prabhu/BSP_testing/"
           },
           "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.zip",
           "archiveFileName": "ArduinoCore-samd-2.2.0.zip",
