@@ -336,62 +336,15 @@
 	{
           "name": "MCCI Catena SAMD Boards",
           "architecture": "samd",
-          "version": "2.1.0",
+          "version": "2.2.0",
           "category": "Contributed",
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/mcci-catena/ArduinoCore-samd/archive/v2.1.0.tar.gz",
-          "archiveFileName": "Arduino_Core_SAMD-2.1.0.tar.gz",
-          "checksum": "SHA-256:86306a068853ed8e3d5c53aab771c6c338eaaaae10fc5930411984da1bad03d8",
-          "size": "6564792",
-          "boards": [
-            {"name": "Catena 4410"},
-	    {"name": "Catena 4420"},  
-            {"name": "Catena 4450"},
-            {"name": "Catena 4460"},
-	    {"name": "Catena 4470"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "version": "4.8.3-2014q1",
-              "name": "arm-none-eabi-gcc"
-            },
-            {
-              "packager": "arduino",
-              "version": "1.7.0",
-              "name": "bossac"
-            },
-            {
-              "packager": "arduino",
-              "version": "0.9.0-arduino",
-              "name": "openocd"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.1.0"
-            }
-          ]
-        },
-	{
-          "name": "MCCI Catena SAMD Boards-prabhu",
-          "architecture": "samd",
-          "version": "2.2.0",
-          "category": "Contributed",
-          "help": {
-            "online": "https://github.com/08prabhu"
-          },
-          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.tar.gz",
-          "archiveFileName": "Arduino_Core_SAMD-2.2.0.tar.gz",
-          "checksum": "SHA-256:acddf0eb6c9b8cb6d99b013e9cd9c6cc122c0a96d3a5da26854821025ae47b91",
-          "size": "6355191",
+          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-v2.20.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-v2.20.tar.gz",
+          "checksum": "SHA-256:57550ef9ed3980797470783ad579db17b7cc0fc10eff845e485dda6c933320b7",
+          "size": "6355470",
           "boards": [
             {"name": "Catena 4410"},
 	    {"name": "Catena 4420"},  
