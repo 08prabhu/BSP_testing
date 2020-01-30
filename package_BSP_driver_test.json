@@ -390,8 +390,8 @@
           },
           "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.tar.gz",
           "archiveFileName": "Arduino_Core_SAMD-2.2.0.tar.gz",
-          "checksum": "SHA-256:e4ad558a58c6b43af80c96556d38f35ab6508d61cc4be772cba3138d27df28ea",
-          "size": "(6354820",
+          "checksum": "SHA-256:acddf0eb6c9b8cb6d99b013e9cd9c6cc122c0a96d3a5da26854821025ae47b91",
+          "size": "6355191",
           "boards": [
             {"name": "Catena 4410"},
 	    {"name": "Catena 4420"},  
