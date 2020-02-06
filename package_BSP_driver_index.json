@@ -341,7 +341,7 @@
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.20.tar.gz",
+          "url": "https://github.com/08prabhu/Arduino_core_samd/raw/master/ArduinoCore-samd-2.2.0.tar.gz",
           "archiveFileName": "ArduinoCore-samd-2.20.tar.gz",
           "checksum": "SHA-256:A8BED2636066FF332EF3644FD2AD8F257CFBCC4AE5392181524B63D49EF5708C",
           "size": "6355595",
